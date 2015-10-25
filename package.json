@@ -17,7 +17,7 @@
     "edit",
     "webpack"
   ],
-  "author": "Godi13 <godi13@vip.qq.com> (http://github.com/godi13)",
+  "author": "Godi13 <godi13@vip.qq.com> (https://github.com/godi13)",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
     "babel-core": "^5.8.29",
